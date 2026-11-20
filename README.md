@@ -41,7 +41,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=23B1NUM1822&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=23B1NUM1822&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23B1NUM1822&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
 </p>
 
